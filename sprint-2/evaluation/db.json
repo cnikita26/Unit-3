@@ -1,0 +1,18 @@
+{
+    "movies":[
+        {"movie_id": 1,
+        "name": "RRR",
+        "genre": "Action",
+       "director":"Mralbert"}
+
+    ],
+    "series":[
+        {
+        "series_id": 2,
+        "name": "pushpa",
+        "genre": "Romantic",
+        "director": "MrChunnu"
+    }
+    ]
+
+}

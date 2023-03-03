@@ -1,0 +1,28 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "sub": "maths"
+        },
+        {
+            "id": 2,
+            "sub": "English"
+        },
+        {
+            "id": 3,
+            "sub": "Science"
+        },
+        {
+            "id": 4,
+            "sub": "Marathi"
+        },
+        {
+            "id": 10,
+            "sub": "astronomy"
+        },
+        {
+            "id": 5,
+            "sub": "Devnagari"
+        }
+    ]
+}
